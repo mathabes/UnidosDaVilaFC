@@ -1,6 +1,4 @@
-﻿
-
-namespace UnidosDaVilaFC.Models
+﻿namespace UnidosDaVilaFC.Models
 {
     public class Jogador : Funcionario
     {
@@ -31,20 +29,16 @@ namespace UnidosDaVilaFC.Models
 
         internal string TipoTreino()
         {
-            switch (Especialidade.ToLower())
+            switch (Posicao.ToLower())
             {
-                case "ataque":
-                        return  "O jogador " + GetNome() + "está realizando treino de Finalização.";
-                    break;
-                case "defesa":
-                        return "O jogador " + GetNome() + "está realizando treino de defesa.";
-                    break;
-                case "meio-campo":
-                        return "O jogador " + GetNome() + "está realizando treino de Passe.";
-                    break;
+                case "atacante":
+                        return  "Finalização";
+                case "defensor":
+                        return "Marcação";
+                case "meia":
+                        return "Passe";
                 default:
-                        return "O jogador " + GetNome() + " está realizando treino específico para sua especialidade.";
-                    break;
+                        return "Especializado";
             }
         }
 

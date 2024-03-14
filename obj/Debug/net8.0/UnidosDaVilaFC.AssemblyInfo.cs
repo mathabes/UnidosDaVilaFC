@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnidosDaVilaFC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee0ef05eed88a5ff1b78ea65412c905ee8f8c4b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+790fa7d4bbbbf41984bfc278082d950283ac8352")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnidosDaVilaFC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnidosDaVilaFC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

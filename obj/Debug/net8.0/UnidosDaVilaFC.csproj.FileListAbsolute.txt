@@ -59,3 +59,4 @@ C:\Users\Desktop\Source\Repos\UnidosDaVilaFC\obj\Debug\net8.0\refint\UnidosDaVil
 C:\Users\Desktop\Source\Repos\UnidosDaVilaFC\obj\Debug\net8.0\UnidosDaVilaFC.pdb
 C:\Users\Desktop\Source\Repos\UnidosDaVilaFC\obj\Debug\net8.0\UnidosDaVilaFC.genruntimeconfig.cache
 C:\Users\Desktop\Source\Repos\UnidosDaVilaFC\obj\Debug\net8.0\ref\UnidosDaVilaFC.dll
+C:\Users\mathe\source\repos\UnidosDaVilaFC\obj\Debug\net8.0\UnidosDaVilaFC.sourcelink.json

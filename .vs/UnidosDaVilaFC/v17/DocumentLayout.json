@@ -1,34 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\",
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\desktop\\source\\repos\\unidosdavilafc\\views\\home\\patrocinios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:views\\home\\patrocinios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\controllers\\jogadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:controllers\\jogadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\desktop\\source\\repos\\unidosdavilafc\\views\\home\\jogadores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:views\\home\\jogadores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\desktop\\source\\repos\\unidosdavilafc\\models\\patrocinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:models\\patrocinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\desktop\\source\\repos\\unidosdavilafc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\desktop\\source\\repos\\unidosdavilafc\\models\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:models\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\desktop\\source\\repos\\unidosdavilafc\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\desktop\\source\\repos\\unidosdavilafc\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\views\\jogador\\jogadores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:views\\jogador\\jogadores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\views\\tecnico\\tecnico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:views\\tecnico\\tecnico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\controllers\\tecnicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:controllers\\tecnicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\models\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:models\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\controllers\\patrociniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:controllers\\patrociniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\models\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:models\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|c:\\users\\mathe\\source\\repos\\unidosdavilafc\\models\\patrocinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FBC29D-F47E-4539-9ACE-DA896C985F47}|UnidosDaVilaFC.csproj|solutionrelative:models\\patrocinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,105 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Jogadores.cshtml",
-              "DocumentMoniker": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Views\\Home\\Jogadores.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Jogadores.cshtml",
-              "ToolTip": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Views\\Home\\Jogadores.cshtml",
-              "RelativeToolTip": "Views\\Home\\Jogadores.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T00:22:27.964Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Patrocinios.cshtml",
-              "DocumentMoniker": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Views\\Home\\Patrocinios.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Patrocinios.cshtml",
-              "ToolTip": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Views\\Home\\Patrocinios.cshtml",
-              "RelativeToolTip": "Views\\Home\\Patrocinios.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T00:11:46.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAiAAAA",
+              "Title": "JogadorController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Controllers\\JogadorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JogadorController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Controllers\\JogadorController.cs",
+              "RelativeToolTip": "Controllers\\JogadorController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T21:30:32.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Patrocinio.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Models\\Patrocinio.cs",
-              "RelativeDocumentMoniker": "Models\\Patrocinio.cs",
-              "ToolTip": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Models\\Patrocinio.cs",
-              "RelativeToolTip": "Models\\Patrocinio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T17:40:08.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Tecnico.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Models\\Tecnico.cs",
-              "RelativeDocumentMoniker": "Models\\Tecnico.cs",
-              "ToolTip": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Models\\Tecnico.cs",
-              "RelativeToolTip": "Models\\Tecnico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T17:16:50.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Jogador.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Models\\Jogador.cs",
-              "RelativeDocumentMoniker": "Models\\Jogador.cs",
-              "ToolTip": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Models\\Jogador.cs",
-              "RelativeToolTip": "Models\\Jogador.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAcwCYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T17:15:43.731Z",
+              "WhenOpened": "2024-03-14T21:01:16.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Models\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\Desktop\\source\\repos\\UnidosDaVilaFC\\Models\\Funcionario.cs",
-              "RelativeToolTip": "Models\\Funcionario.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAYwCAAAAAgAAAA",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-14T20:59:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T20:57:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tecnico.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\Tecnico.cs",
+              "RelativeDocumentMoniker": "Models\\Tecnico.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\Tecnico.cs",
+              "RelativeToolTip": "Models\\Tecnico.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T17:16:36.471Z",
+              "WhenOpened": "2024-03-14T20:56:47.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tecnico.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Views\\Tecnico\\Tecnico.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tecnico\\Tecnico.cshtml",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Views\\Tecnico\\Tecnico.cshtml",
+              "RelativeToolTip": "Views\\Tecnico\\Tecnico.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T20:21:43.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\Jogador.cs",
+              "RelativeDocumentMoniker": "Models\\Jogador.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\Jogador.cs",
+              "RelativeToolTip": "Models\\Jogador.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:53:10.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\Funcionario.cs",
+              "RelativeToolTip": "Models\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:53:08.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\IFuncionario.cs",
+              "RelativeDocumentMoniker": "Models\\IFuncionario.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\IFuncionario.cs",
+              "RelativeToolTip": "Models\\IFuncionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:52:22.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:56:57.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatrocinioController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Controllers\\PatrocinioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatrocinioController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Controllers\\PatrocinioController.cs",
+              "RelativeToolTip": "Controllers\\PatrocinioController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:38:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TecnicoController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Controllers\\TecnicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TecnicoController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Controllers\\TecnicoController.cs",
+              "RelativeToolTip": "Controllers\\TecnicoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:58:40.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jogadores.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Views\\Jogador\\Jogadores.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jogador\\Jogadores.cshtml",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Views\\Jogador\\Jogadores.cshtml",
+              "RelativeToolTip": "Views\\Jogador\\Jogadores.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T18:59:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patrocinio.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\Patrocinio.cs",
+              "RelativeDocumentMoniker": "Models\\Patrocinio.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\Models\\Patrocinio.cs",
+              "RelativeToolTip": "Models\\Patrocinio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:40:08.595Z",
               "EditorCaption": ""
             }
           ]

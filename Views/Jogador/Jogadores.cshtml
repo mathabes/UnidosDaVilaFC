@@ -1,0 +1,40 @@
+﻿@model List<Jogador>
+
+<html>
+<head>
+    <title>Jogadores</title>
+</head>
+<body>
+    <h1>Jogadores</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Data de Nascimento</th>
+                <th>Salário</th>
+                <th>Nacionalidade</th>
+                <th>Posição</th>
+                <th>Especialidade</th>
+                <th>Status</th>
+                <th>Treino Atual</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var jogador in Model)
+            {
+                <tr>
+                    <td>@jogador.GetNome()</td>
+                    <td>@jogador.DataNascimento.ToShortDateString()</td>
+                    <td>@jogador.GetSalario()</td>
+                    <td>@jogador.Nacionalidade</td>
+                    <td>@jogador.GetPosicao()</td>
+                    <td>@jogador.GetEspecialidade()</td>
+                    <td>@jogador.Status</td>
+                    <td>@jogador.TipoTreino()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>

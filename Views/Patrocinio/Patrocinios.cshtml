@@ -1,0 +1,28 @@
+﻿@model List<Patrocinio>
+
+<html>
+<head>
+    <title>Patrocinadores</title>
+</head>
+<body>
+    <div class="container">
+        @foreach (var patrocinio in Model)
+        {
+            <div class="item">
+                <img src=@patrocinio.Logo alt=@patrocinio.Marca>
+                <ul class="lista">
+                    <li>
+                        @patrocinio.Marca
+                    </li>
+                    <li>
+                        Verba: R$ @patrocinio.GetVerba()
+                    </li>
+                    <li>
+                        Contrato válido até @patrocinio.PrazoContrato
+                    </li>
+                </ul>
+            </div>
+        }
+    </div>
+</body>
+</html>
