@@ -20,9 +20,11 @@ namespace UnidosDaVilaFC.Models
             return Estrategia;
         }
 
-        public override void Logar()
+        public override string Logar()
         {
-            // logar de outra forma
+            Console.WriteLine($"O técnico {GetNome()} fez login no sistema.");
+            return "Login - Técnico logado: " + GetNome();
+
         }
     }
 }

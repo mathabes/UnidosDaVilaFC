@@ -4,8 +4,7 @@ namespace UnidosDaVilaFC.Models
 {
     public class Jogador : Funcionario
     {
-        public Jogador(int id, string nome, DateTime dataNascimento, double salario, string nacionalidade, 
-            string posicao, string especialidade, string status) : base(nome, dataNascimento, salario, nacionalidade)
+        public Jogador(int id, string nome, DateTime dataNascimento, double salario, string nacionalidade, string posicao, string especialidade, string status) : base(nome, dataNascimento, salario, nacionalidade)
         {
             Id = id;
             Posicao = posicao ?? throw new ArgumentNullException(nameof(posicao));
@@ -14,13 +13,11 @@ namespace UnidosDaVilaFC.Models
         }
 
         public int Id { get; set; }
-        private string Posicao { get; set; }
-
-        private string Especialidade { get; set; }
-
+        public string Posicao { get; set; }
+        public string Especialidade { get; set; }
         public string Status { get; set; }
 
-       
+ 
 
         public string GetPosicao()
         {
@@ -32,15 +29,30 @@ namespace UnidosDaVilaFC.Models
             return Especialidade;
         }
 
-        internal void TipoTreino()
+        internal string TipoTreino()
         {
-            // dps nois faz
+            switch (Especialidade.ToLower())
+            {
+                case "ataque":
+                        return  "O jogador " + GetNome() + "está realizando treino de Finalização.";
+                    break;
+                case "defesa":
+                        return "O jogador " + GetNome() + "está realizando treino de defesa.";
+                    break;
+                case "meio-campo":
+                        return "O jogador " + GetNome() + "está realizando treino de Passe.";
+                    break;
+                default:
+                        return "O jogador " + GetNome() + " está realizando treino específico para sua especialidade.";
+                    break;
+            }
         }
 
-
-        public override void Logar()
+        public override string Logar()
         {
-            // logar de outra forma
+            Console.WriteLine($"O Jogador {GetNome()} fez login no sistema.");
+            return "Login - Jogador: " + GetNome();
         }
+
     }
 }

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mathe\\.nuget\\packages\\": {}
+    "C:\\Users\\Desktop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\UnidosDaVilaFC.csproj",
+      "projectUniqueName": "C:\\Users\\Desktop\\Source\\Repos\\UnidosDaVilaFC\\UnidosDaVilaFC.csproj",
       "projectName": "UnidosDaVilaFC",
-      "projectPath": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\UnidosDaVilaFC.csproj",
-      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\source\\repos\\UnidosDaVilaFC\\obj\\",
+      "projectPath": "C:\\Users\\Desktop\\Source\\Repos\\UnidosDaVilaFC\\UnidosDaVilaFC.csproj",
+      "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Desktop\\Source\\Repos\\UnidosDaVilaFC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

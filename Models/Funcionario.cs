@@ -2,11 +2,11 @@
 {
     public class Funcionario : IFuncionario
     {
-        private string Nome { get; set; }
+        protected string Nome { get; set; }
 
-        protected DateTime DataNascimento { get; set;}
+        public DateTime DataNascimento { get; set;}
 
-        private double Salario { get; set;}
+        protected double Salario { get; set;}
 
         public string Nacionalidade { get; set;}
 
@@ -28,9 +28,10 @@
             return Salario;
         }
 
-        public virtual void Logar()
+        public virtual string Logar()
         {
-            // função logar
+            Console.WriteLine($" {GetNome()} fez login no sistema.");
+            return GetNome() + "fez login no sistema.";
         }
     }
 }

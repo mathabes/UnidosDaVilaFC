@@ -2,6 +2,6 @@
 {
     public interface IFuncionario
     {
-        void Logar();
+        string Logar();
     }
 }
